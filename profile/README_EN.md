@@ -16,7 +16,7 @@ Currently it includes API automation testing and performance testing, and other 
 ## API automation testing
 
 - [x] Bruno
-- [ ] RestAssured
+- [x] RestAssured
 - [ ] SuperTest
 - [ ] Postman
 - [ ] Pytest
