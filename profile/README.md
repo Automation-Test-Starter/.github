@@ -16,7 +16,7 @@
 ## API 自动化测试
 
 - [x] Bruno
-- [ ] RestAssured
+- [x] RestAssured
 - [ ] SuperTest
 - [ ] Postman
 - [ ] Pytest
