@@ -15,8 +15,8 @@ Currently it includes API automation testing and performance testing, and other 
 
 ## API automation testing
 
-- [x] Bruno
-- [x] RestAssured
+- [x] Bruno <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
+- [x] RestAssured <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
 - [ ] SuperTest
 - [ ] Postman
 - [ ] Pytest
@@ -24,7 +24,7 @@ Currently it includes API automation testing and performance testing, and other 
 
 ## Performance testing
 
-- [x] Gatling
+- [x] Gatling <https://github.com/Automation-Test-Starter/Gatling-Performance-Test-starter>
 - [ ] K6
 - [ ] JMeter
 - [ ] locust
