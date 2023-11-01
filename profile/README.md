@@ -15,8 +15,8 @@
 
 ## API 自动化测试
 
-- [x] Bruno
-- [x] RestAssured
+- [x] Bruno <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
+- [x] RestAssured <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
 - [ ] SuperTest
 - [ ] Postman
 - [ ] Pytest
@@ -24,7 +24,7 @@
 
 ## 性能测试
 
-- [x] Gatling
+- [x] Gatling <https://github.com/Automation-Test-Starter/Gatling-Performance-Test-starter>
 - [ ] K6
 - [ ] JMeter
 - [ ] locust
