@@ -1,4 +1,4 @@
-**中文** | [English](/profile/README_EN.md)
+<div align="right"><strong>🇨🇳中文</a></strong>  | <strong><a href=“./profile/README_EN.md">🇬🇧English</strong></div>
 
 <h1 align="center">你好 👋, 欢迎访问</h1>
 <h3 align="center">这里是 Automation-Test-Starter 组织的首页。</h3>
