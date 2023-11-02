@@ -7,7 +7,7 @@
 
 An organization made by QA, for QA.
 
-A startup project for automation testing for QA, including common test frameworks and tools, as well as some common test demo.
+A QUICKSTART project for automation testing for QA, including common test frameworks and tools, as well as some common test demo.
 
 Currently it includes API automation testing and performance testing, and other types of automation testing will be added later.
 
