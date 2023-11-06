@@ -1,13 +1,19 @@
-<div align="right"><strong><a href="./README.md">🇨🇳中文</a></strong>  | <strong>🇬🇧English</strong></div>
+<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD033 -->
+<div align="right"><strong>🇨🇳中文</a></strong>  | <strong><a href="/profile/README.md">🇬🇧English</strong></div>
+<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD033 -->
 
-<h1 align="center">Hi 👋, welcome!</h1>
-<h3 align="center">This is the Automation-Test-Starter organization home page.</h3>
+<!-- markdownlint-disable MD033 -->
+<h1 align="center">你好 👋, 欢迎访问</h1>
+<h3 align="center">这里是 Automation-Test-Starter 组织的首页。</h3>
+<!-- markdownlint-disable MD033 -->
 
 # 🙋‍♀️ A short introduction
 
 An organization made by QA, for QA.
 
-A QUICKSTART project for automation testing for QA, including common test frameworks and tools, as well as some common test demo.
+A startup project for automation testing for QA, including common test frameworks and tools, as well as some common test demo.
 
 Currently it includes API automation testing and performance testing, and other types of automation testing will be added later.
 

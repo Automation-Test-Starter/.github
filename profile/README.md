@@ -1,19 +1,26 @@
-<div align="right"><strong>🇨🇳中文</a></strong>  | <strong><a href="./profile/README_EN.md">🇬🇧English</strong></div>
+<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD033 -->
+<div align="right"><strong><a href="/profile/README_ZH.md">🇨🇳中文</a></strong>  | <strong>🇬🇧English</strong></div>
+<!-- markdownlint-disable MDMD041 -->
+<!-- markdownlint-disable MD033 -->
 
-<h1 align="center">你好 👋, 欢迎访问</h1>
-<h3 align="center">这里是 Automation-Test-Starter 组织的首页。</h3>
+<!-- markdownlint-disable MD033 -->
+<h1 align="center">Hi 👋, welcome!</h1>
+<h3 align="center">This is the Automation-Test-Starter organization home page.</h3>
+<!-- markdownlint-disable MD033 -->
 
-# 🙋‍♀️ 简短介绍
 
-组织因 QA 而生，也为 QA 服务
+# 🙋‍♀️ A short introduction
 
-一个为 QA 提供自动化测试的快速启动项目，包含了常用的测试框架和工具，以及一些常用的测试 demo。
+An organization made by QA, for QA.
 
-目前包含了 API 自动化测试和性能测试的快速启动项目，后面也会陆续添加其他类型的自动化测试。
+A QUICKSTART project for automation testing for QA, including common test frameworks and tools, as well as some common test demo.
 
-# 🗺️组织项目路线图
+Currently it includes API automation testing and performance testing, and other types of automation testing will be added later.
 
-## API 自动化测试
+# 🗺️ Organizes project roadmaps
+
+## API automation testing
 
 - [x] Bruno <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
 - [x] RestAssured <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
@@ -22,7 +29,7 @@
 - [ ] Pytest
 - [ ] ?
 
-## 性能测试
+## Performance testing
 
 - [x] Gatling <https://github.com/Automation-Test-Starter/Gatling-Performance-Test-starter>
 - [ ] K6
@@ -30,7 +37,7 @@
 - [ ] locust
 - [ ] ?
 
-## UI 自动化测试
+## UI automation testing
 
 - [ ] cypress
 - [ ] selenium
@@ -38,25 +45,25 @@
 - [ ] playwright
 - [ ] ?
 
-# 🌈 贡献指南
+# 🌈 Contribution guidelines
 
-大家可以给不同项目提交 issue 或者 PR 来参与组织贡献
+You can contribute to the organization by submitting issues or PRs for different projects.
 
-若需要新增其他类型的快速启动项目，可以在[这个项目](https://github.com/Automation-Test-Starter/.github)的 issue 中提出。
+If you want to add another type of startup project, you can do so in the issue of [this project](https://github.com/Automation-Test-Starter/.github).
 
-# 👩‍💻 有用的资源
+# 👩‍💻 Useful resources
 
-## API 自动化测试快速启动项目
+## API automation testing starter project
 
 - Bruno: https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter
 
-## 性能测试快速启动项目
+## Performance testing starter project
 
 - Gatling: https://github.com/Automation-Test-Starter/Gatling-Performance-Test-starter
 
-# 🍿 趣闻
+# 🍿 Fun facts
 
-☕️咖啡 and 🍵茶
+☕️ coffee and 🍵tea
 
 **Quality Analyst**
 
