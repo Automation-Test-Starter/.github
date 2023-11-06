@@ -9,17 +9,17 @@
 <h3 align="center">这里是 Automation-Test-Starter 组织的首页。</h3>
 <!-- markdownlint-disable MD033 -->
 
-# 🙋‍♀️ A short introduction
+# 🙋‍♀️ 简短介绍
 
-An organization made by QA, for QA.
+组织因 QA 而生，也为 QA 服务
 
-A startup project for automation testing for QA, including common test frameworks and tools, as well as some common test demo.
+一个为 QA 提供自动化测试的快速启动项目，包含了常用的测试框架和工具，以及一些常用的测试 demo。
 
-Currently it includes API automation testing and performance testing, and other types of automation testing will be added later.
+目前包含了 API 自动化测试和性能测试的快速启动项目，后面也会陆续添加其他类型的自动化测试。
 
-# 🗺️ Organizes project roadmaps
+# 🗺️组织项目路线图
 
-## API automation testing
+## API 自动化测试
 
 - [x] Bruno <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
 - [x] RestAssured <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
@@ -28,7 +28,7 @@ Currently it includes API automation testing and performance testing, and other 
 - [ ] Pytest
 - [ ] ?
 
-## Performance testing
+## 性能测试
 
 - [x] Gatling <https://github.com/Automation-Test-Starter/Gatling-Performance-Test-starter>
 - [ ] K6
@@ -36,7 +36,7 @@ Currently it includes API automation testing and performance testing, and other 
 - [ ] locust
 - [ ] ?
 
-## UI automation testing
+## UI 自动化测试
 
 - [ ] cypress
 - [ ] selenium
@@ -44,29 +44,38 @@ Currently it includes API automation testing and performance testing, and other 
 - [ ] playwright
 - [ ] ?
 
-# 🌈 Contribution guidelines
+# 🌈 贡献指南
 
-You can contribute to the organization by submitting issues or PRs for different projects.
+大家可以给不同项目提交 issue 或者 PR 来参与组织贡献
 
-If you want to add another type of startup project, you can do so in the issue of [this project](https://github.com/Automation-Test-Starter/.github).
+若需要新增其他类型的快速启动项目，可以在[这个项目](https://github.com/Automation-Test-Starter/.github)的 issue 中提出。
 
-# 👩‍💻 Useful resources
+# 👩‍💻 有用的资源
 
-## API automation testing starter project
+## API 自动化测试快速启动项目
 
-- Bruno: https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter
+- Bruno: <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
+- RestAssured:<https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
 
-## Performance testing starter project
+## 性能测试快速启动项目
 
-- Gatling: https://github.com/Automation-Test-Starter/Gatling-Performance-Test-starter
+- Gatling: <https://github.com/Automation-Test-Starter/Gatling-Performance-Test-starter>
 
-# 🍿 Fun facts
+# 🍿 趣闻
 
-☕️ coffee and 🍵tea
+☕️咖啡 and 🍵茶
 
 **Quality Analyst**
 
-# 📫 How to reach me
+# 捐助
+
+如果你觉得我的项目对你有帮助，可以请我喝杯咖啡，感谢你的支持。
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://www.buymeacoffee.com/naodeng" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;"></a>
+<!-- markdownlint-enable MD033 -->
+
+# 📫 怎么联系我
 
 - 📝 [Blog](https://naodeng.tech)
 - 📫 [Email](mailto:<dengnao@gmail.com>)

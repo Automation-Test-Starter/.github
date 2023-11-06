@@ -55,7 +55,8 @@ If you want to add another type of startup project, you can do so in the issue o
 
 ## API automation testing starter project
 
-- Bruno: https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter
+- Bruno: <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
+- RestAssured:<https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
 
 ## Performance testing starter project
 
@@ -65,7 +66,17 @@ If you want to add another type of startup project, you can do so in the issue o
 
 ☕️ coffee and 🍵tea
 
+<!-- markdownlint-disable MD036 -->
 **Quality Analyst**
+<!-- markdownlint-disable MD036 -->
+
+# Donations
+
+If you like my work, you can buy me a coffee.
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://www.buymeacoffee.com/naodeng" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;"></a>
+<!-- markdownlint-enable MD033 -->
 
 # 📫 How to reach me
 
