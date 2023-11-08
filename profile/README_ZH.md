@@ -23,7 +23,7 @@
 
 - [x] Bruno <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
 - [x] RestAssured <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
-- [ ] SuperTest
+- [x] SuperTest <https://github.com/Automation-Test-Starter/SuperTest-API-Test-Starter>
 - [ ] Postman
 - [ ] Pytest
 - [ ] ?
@@ -55,7 +55,8 @@
 ## API 自动化测试快速启动项目
 
 - Bruno: <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
-- RestAssured:<https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
+- RestAssured: <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
+- SuperTest: <https://github.com/Automation-Test-Starter/SuperTest-API-Test-Starter>
 
 ## 性能测试快速启动项目
 
