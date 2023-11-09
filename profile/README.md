@@ -9,6 +9,10 @@
 <h3 align="center">This is the Automation-Test-Starter organization home page.</h3>
 <!-- markdownlint-disable MD033 -->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Automation-Test-Starter/count.svg" />
+</p>
 
 # 🙋‍♀️ A short introduction
 
