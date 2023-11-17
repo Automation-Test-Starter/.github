@@ -25,7 +25,7 @@
 - [x] RestAssured <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
 - [x] SuperTest <https://github.com/Automation-Test-Starter/SuperTest-API-Test-Starter>
 - [ ] Postman
-- [ ] Pytest
+- [ ] Pytest <https://github.com/Automation-Test-Starter/Pytest-API-Test-Starter>
 - [ ] ?
 
 ## 性能测试
