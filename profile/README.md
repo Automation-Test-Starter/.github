@@ -9,12 +9,14 @@
 <h3 align="center">This is the Automation-Test-Starter organization home page.</h3>
 <!-- markdownlint-disable MD033 -->
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Automation-Test-Starter/count.svg" />
 </p>
 
 # 🙋‍♀️ A short introduction
+
+<https://automation-test-starter.pages.dev>
 
 An organization made by QA, for QA.
 
@@ -29,8 +31,8 @@ Currently it includes API automation testing and performance testing, and other 
 - [x] Bruno <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
 - [x] RestAssured <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
 - [x] SuperTest <https://github.com/Automation-Test-Starter/SuperTest-API-Test-Starter>
-- [ ] Postman
-- [ ] Pytest <https://github.com/Automation-Test-Starter/Pytest-API-Test-Starter>
+- [x] Postman <https://github.com/Automation-Test-Starter/Postman-API-Test-Starter>
+- [x] Pytest <https://github.com/Automation-Test-Starter/Pytest-API-Test-Starter>
 - [ ] ?
 
 ## Performance testing
@@ -59,10 +61,11 @@ If you want to add another type of startup project, you can do so in the issue o
 
 ## API automation testing starter project
 
-- API automation testing with Bruno: <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
-- API automation testing with RestAssured: <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
-- API automation testing with SuperTest: <https://github.com/Automation-Test-Starter/SuperTest-API-Test-Starter>
-- API automation testing with Pytest: <https://github.com/Automation-Test-Starter/Pytest-API-Test-Starter>
+- Bruno: <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
+- RestAssured: <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
+- SuperTest: <https://github.com/Automation-Test-Starter/SuperTest-API-Test-Starter>
+- Postman: <https://github.com/Automation-Test-Starter/Postman-API-Test-Starter>
+- Pytest: <https://github.com/Automation-Test-Starter/Pytest-API-Test-Starter>
 
 ## Performance testing starter project
 

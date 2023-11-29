@@ -9,7 +9,14 @@
 <h3 align="center">这里是 Automation-Test-Starter 组织的首页。</h3>
 <!-- markdownlint-disable MD033 -->
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Automation-Test-Starter/count.svg" />
+</p>
+
 # 🙋‍♀️ 简短介绍
+
+<https://automation-test-starter.pages.dev>
 
 组织因 QA 而生，也为 QA 服务
 
@@ -24,8 +31,8 @@
 - [x] Bruno <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
 - [x] RestAssured <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
 - [x] SuperTest <https://github.com/Automation-Test-Starter/SuperTest-API-Test-Starter>
-- [ ] Postman
-- [ ] Pytest <https://github.com/Automation-Test-Starter/Pytest-API-Test-Starter>
+- [x] Postman <https://github.com/Automation-Test-Starter/Postman-API-Test-Starter>
+- [x] Pytest <https://github.com/Automation-Test-Starter/Pytest-API-Test-Starter>
 - [ ] ?
 
 ## 性能测试
@@ -57,6 +64,8 @@
 - Bruno: <https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter>
 - RestAssured: <https://github.com/Automation-Test-Starter/RestAssured-API-Test-Starter>
 - SuperTest: <https://github.com/Automation-Test-Starter/SuperTest-API-Test-Starter>
+- Pytest: <https://github.com/Automation-Test-Starter/Pytest-API-Test-Starter>
+- Postman: <https://github.com/Automation-Test-Starter/Postman-API-Test-Starter>
 
 ## 性能测试快速启动项目
 
