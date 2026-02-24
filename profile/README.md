@@ -16,7 +16,7 @@
 
 # 🙋‍♀️ A short introduction
 
-<https://automation-test-starter.pages.dev>
+<https://automation-test-starter.inaodeng.com>
 
 An organization made by QA, for QA.
 
