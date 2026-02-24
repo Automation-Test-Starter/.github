@@ -16,7 +16,7 @@
 
 # 🙋‍♀️ 简短介绍
 
-<https://automation-test-starter.pages.dev>
+<https://automation-test-starter.inaodeng.com>
 
 组织因 QA 而生，也为 QA 服务
 
